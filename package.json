@@ -1,13 +1,17 @@
 {
 	"author": "Avi Mukesh",
 	"description": "A web app to help you learn how to code",
-	"keywords":["Tech A.M", "software", "code"],
+	"keywords": [
+		"Tech A.M",
+		"software",
+		"code"
+	],
 	"license": "MIT",
-	"version":"1.0.0",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.4.0",
+		"moment": "2.4.0"
 	},
 	"main": "server.js",
 	"scripts": {
